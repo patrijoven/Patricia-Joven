@@ -1,3 +1,9 @@
 # Patricia-Joven
 Bienvenido a mi página
-## Estamos hablando en chino
+## Viaje a Bolivia
+Agosto/Septiembre 2017
+
+- Volando voy
+- Como en casa
+- Excursiones
+- Plantas
