@@ -7,3 +7,6 @@ Agosto/Septiembre 2017
 - Como en casa
 - Excursiones
 - Plantas
+- Tatuajes
+- Mercados
+- Callejeando
