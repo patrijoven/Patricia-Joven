@@ -1,7 +1,7 @@
 # Patricia-Joven
 Bienvenido a mi página
 ## Viaje a Bolivia
-Agosto/Septiembre 2017
+**Agosto/Septiembre 2017**
 
 - Volando voy
 - Como en casa
@@ -9,4 +9,6 @@ Agosto/Septiembre 2017
 - Plantas
 - Tatuajes
 - Mercados
-- Callejeando
+- __Callejeando__
+
+## ~~vuelta a casa~~
